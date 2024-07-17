@@ -28,3 +28,8 @@ Os testes estão separados em dois arquivos:
 + **Resources:** Contém arquivos de recursos, como variáveis globais, arquivos de configuração, etc.
 + **teste:** Contém os casos de testes o qual serão executados
 
+## 💡Começando a automação💡 ##
+O site escolhido para realizar a automação é o site de e-commece da amazon: https://www.amazon.com.br/ e os fluxos que serão automatizados com o robot framework são: **Adicionar produto no carrinho** e **Remover produto do carrinho**
+
+
+

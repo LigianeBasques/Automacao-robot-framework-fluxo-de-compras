@@ -21,4 +21,10 @@ Você precisará baixar o WebDriver para o navegador que será utilizado nos tes
 + **Opera:** https://github.com/operasoftware/operachromiumdriver/releases
 
 **Observação**: Baixe o WebDriver correspondente à versão do seu navegador e coloque-o em um local acessível no seu sistema. Certifique-se de adicionar o diretório onde o WebDriver está localizado ao seu PATH.
+### Instale o visual studio code ###
++ Baixe e instale um editor de código de preferência o visual studio code entre no site: https://code.visualstudio.com/download
+## 🔨 Estrutura da automação🔨  ##
+Os testes estão separados em dois arquivos:
++ **Resources:** Contém arquivos de recursos, como variáveis globais, arquivos de configuração, etc.
++ **teste:** Contém os casos de testes o qual serão executados
 

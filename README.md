@@ -7,3 +7,6 @@ Esse desafio é sobre a automação do fluxo de compras do site da amazon, utili
 <li>Remover produto do carrinho</li>
 
 ## 🏃Primeiros passos🏃 ##
+### Instale o python ###
+Baixe e instale o python em seu computador entre no siste: https://www.python.org/downloads/
+

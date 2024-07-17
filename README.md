@@ -20,3 +20,5 @@ Você precisará baixar o WebDriver para o navegador que será utilizado nos tes
 + **Edge:** https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 + **Opera:** https://github.com/operasoftware/operachromiumdriver/releases
 
+**Observação**: Baixe o WebDriver correspondente à versão do seu navegador e coloque-o em um local acessível no seu sistema. Certifique-se de adicionar o diretório onde o WebDriver está localizado ao seu PATH.
+

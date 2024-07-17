@@ -9,4 +9,6 @@ Esse desafio é sobre a automação do fluxo de compras do site da amazon, utili
 ## 🏃Primeiros passos🏃 ##
 ### Instale o python ###
 Baixe e instale o python em seu computador entre no siste: https://www.python.org/downloads/
+### Instale o robot framework ###
+Entre no prompt de comandos do seu pc e digite o seguinte comando: pip install robotframework
 

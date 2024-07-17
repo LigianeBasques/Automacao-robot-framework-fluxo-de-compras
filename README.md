@@ -11,4 +11,6 @@ Esse desafio é sobre a automação do fluxo de compras do site da amazon, utili
 Baixe e instale o python em seu computador entre no siste: https://www.python.org/downloads/
 ### Instale o robot framework ###
 Entre no prompt de comandos do seu pc e digite o seguinte comando: pip install robotframework
+### Instale a selenium library ###
+Instale a biblioteca seleniun library do robot framework digitando o seguinte comando no prompt de comandos do seu computador: pip install --upgrade robotframework-seleniumlibrary
 

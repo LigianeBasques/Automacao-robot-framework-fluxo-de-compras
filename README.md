@@ -42,6 +42,7 @@ A tela abaixo representa o fluxo, em que o cliente remove do carrinho o produto.
 ![Tela representa a remoção do produto do carrinho](https://imgur.com/IGwPGdV.png)
 
 ## 🔎Estrutura da automação do robot framework: Arquivo Teste🔎 ##
+![](https://imgur.com/6YSXmqe.png)
 
 
 

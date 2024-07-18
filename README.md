@@ -46,6 +46,7 @@ A tela abaixo representa o arquivo testebdd.robot, aqui são escritos na sintaxe
 ![Tela do arquivo teste](https://imgur.com/6YSXmqe.png)
 
 ## 🔎Estrutura da automação do robot framework: Arquivo Resource🔎 ##
+A tela abaixo representa o arquivo resource.robot, aqui são declarados as variáveis, keywords e configurações necessarias para rodar os testes.  
 ![Tela do arquivo resource](https://imgur.com/Hb0R06x.png)
 
 

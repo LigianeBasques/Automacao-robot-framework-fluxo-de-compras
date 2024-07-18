@@ -31,6 +31,9 @@ Os testes estão separados em dois arquivos:
 # 💡Começando a automação💡 #
 O site escolhido para realizar a automação é o site de e-commece da amazon: https://www.amazon.com.br/ e os fluxos que serão automatizados com o robot framework são: **Adicionar produto no carrinho** e **Remover produto do carrinho**
 ## 🔎Fluxo: adicionar produto🔎 ##
+A tela abaixo representa o fluxo, o qual foi adicionado o produto escolhido pelo cliente ao carrinho. 
+
+![Tela com o produto adicionado no carrinho](https://imgur.com/hc87h2u.png)
 
 
 

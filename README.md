@@ -43,7 +43,10 @@ A tela abaixo representa o fluxo, em que o cliente remove do carrinho o produto.
 
 ## 🔎Estrutura da automação do robot framework: Arquivo Teste🔎 ##
 A tela abaixo representa o arquivo testebdd.robot, aqui são escritos na sintaxe gherkin os casos de testes, o quais serão testados posteriomenete. 
-![](https://imgur.com/6YSXmqe.png)
+![Tela do arquivo teste](https://imgur.com/6YSXmqe.png)
+
+## 🔎Estrutura da automação do robot framework: Arquivo Resource🔎 ##
+![Tela do arquivo resource](https://imgur.com/Hb0R06x.png)
 
 
 

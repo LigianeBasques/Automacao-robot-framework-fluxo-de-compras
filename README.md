@@ -15,7 +15,7 @@ Entre no prompt de comandos do seu pc e digite o seguinte comando: pip install r
 Instale a biblioteca seleniun library do robot framework digitando o seguinte comando no prompt de comandos do seu computador: pip install --upgrade robotframework-seleniumlibrary
 ### Baixe o WebDriver ###
 Você precisará baixar o WebDriver para o navegador que será utilizado nos testes. Você pode encontrá-lo nos seguintes sites:
-+ **Chrome:** https://sites.google.com/a/chromium.org/chromedriver/downloads
++ **Chrome:** https://googlechromelabs.github.io/chrome-for-testing/
 + **Firefox:** https://github.com/mozilla/geckodriver/releases
 + **Edge:** https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 + **Opera:** https://github.com/operasoftware/operachromiumdriver/releases

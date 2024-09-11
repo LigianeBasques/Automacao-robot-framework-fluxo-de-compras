@@ -49,5 +49,17 @@ A tela abaixo representa o arquivo testebdd.robot, aqui são escritos na sintaxe
 A tela abaixo representa o arquivo resource.robot, aqui são declarados as variáveis, keywords e configurações necessarias para rodar os testes.  
 ![Tela do arquivo resource](https://imgur.com/Hb0R06x.png)
 
+## 📜LOG📜 ##
+o log é um arquivo gerado automaticamente após a execução dos testes, contendo detalhes sobre a execução das keywords, resultados dos testes e outros eventos relacionados. Ele serve como uma ferramenta de depuração e análise, permitindo identificar rapidamente o que ocorreu durante os testes. Como por exemplo falhas, onde falhou o teste.
++ Copie e cole o endereço gerado logo abaixo no seu terminal de testes no navegador e abra. A tela gerada será essa abaixo.
+
+![LOG do teste compras](https://imgur.com/wcq59Eu.png)
+
+## 📌REPORT📌 ##
+ o report é um arquivo gerado automaticamente após a execução dos testes que oferece uma visão geral dos resultados. Ele é menos detalhado que o log, focando mais em fornecer um resumo dos testes.
++ Copie e cole o endereço gerado logo abaixo no seu terminal de testes no navegador e abra. A tela gerada será essa abaixo.
+
+![REPORT do teste compras](https://imgur.com/sqfVDNI.png)
+
 
 
